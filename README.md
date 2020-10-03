@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Working of the project is hown in the below gif file
+
+<img src="public/subredditfeedapp.gif">
 
 ## Available Scripts
 
